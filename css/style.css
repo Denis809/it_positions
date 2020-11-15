@@ -102,7 +102,6 @@
 	border: 5px ridge blue;
 	display: flex;
 	margin-top: 25px;
-	
 }
 .block3{
 	width: 21%;
@@ -117,7 +116,6 @@
 	border: 5px ridge blue;
 	display: flex;
 	margin-top: 25px;
-	
 }
 
 .color1{
@@ -126,17 +124,15 @@
 	height: 500px;
 	margin-top: 25px;
 	margin-left: 10px;
-
-	
 }
 .color2{
-	width: 270%;
+	width: 70%;
 	height: 500px;
 	border: 5px ridge blue;
 	justify-content: center;
-	margin-left: 110%;
-	margin-top: -5px ;
-	
+	margin-top: 25px;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 .color3{
 	width: 90%;
@@ -144,7 +140,6 @@
 	border: 5px ridge orange;
 	margin: 0 auto;
 	margin-top: 25px;
-	display: flex;
 }
 .color4{
 	width: 90%;
@@ -199,5 +194,4 @@
 	height: 65px;
 	border: 5px ridge orange;
 	margin-top: 10px;
-	
 }
